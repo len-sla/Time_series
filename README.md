@@ -1,5 +1,5 @@
 ## Project Purpose
-Getting familiar with time series data approach
+Getting familiar with time series data approach and models
 
 ### General info
 [Time Series](https://en.wikipedia.org/wiki/Time_series) is a collection of data points indexed based on the time they were collected. Most
