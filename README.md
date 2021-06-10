@@ -2,19 +2,17 @@
 Getting familiar with time series data approach and models
 
 ### General info
-[Time Series](https://en.wikipedia.org/wiki/Time_series) is a collection of data points indexed based on the time they were collected. Most
-often, the data is recorded at regular time intervals. What makes Time Series data special?
+[Time Series](https://en.wikipedia.org/wiki/Time_series) is a collection of data points indexed based on the time they were collected. Often, the data is recorded at regular time intervals. What makes Time Series data special?
 Forecasting future Time Series values is a quite common problem in practice. Predicting the weather
-for the next week, the price of Bitcoins tomorrow, the number of your sales during Chrismas and
-future heart failure are common examples.
+for the next week, the price of Bitcoins tomorrow, the number of your sales during X-mas  are common examples.
 Time Series data introduces a “hard dependency” on previous time steps, so the assumption that
 independence of observations doesn’t hold. What are some of the properties that a Time Series can
-have?
-Stationarity, seasonality, and autocorrelation are some of the properties of the Time Series.
+have? Stationarity, seasonality, and autocorrelation are some of the properties of the Time Series.
 
  ###  [time_series_retail.ipynb ](time_series_retail.ipynb)
 As an input 2 years  sells data  from one of the online shops were taken and then resampled to 10 day period.
-Other time domains are also tried. piece of data looks like below:
+From some intial reasearch seaborn it seemed like particuladays in the week, or weeks in the year could be good good distinguishing point
+Other time domains are also tried. Piece of data looks like below:
 ![train df ](train-sample.PNG)
 
 ---
