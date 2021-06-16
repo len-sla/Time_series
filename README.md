@@ -43,7 +43,7 @@ Results were not particularly impressive:
 
 
  
-structure of df before cleanup:
+structure of dataframe before cleanup:
 ---
 ![before cleaning ](train-before.PNG)
 
