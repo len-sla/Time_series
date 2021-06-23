@@ -51,7 +51,7 @@ After cleanup  cleanup:
 
 ![aftercleaning ](train-after.PNG)
 
-### and results...
+### and results are reasonable...
 ![aftercleaning ](time-series-after-cleaning-df.PNG)
 
 ![after cleaning ](time-series-after-cleaning-df1.PNG)
