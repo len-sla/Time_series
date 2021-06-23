@@ -2,7 +2,7 @@
 Getting familiar with time series data approach and models
 
 ### General info
-[Time Series](https://en.wikipedia.org/wiki/Time_series) is a collection of data points indexed based on the time they were collected. Often, the data is recorded at regular time intervals. What makes Time Series data special?
+[Time Series](https://en.wikipedia.org/wiki/Time_series) is a collection of data points where indexing is  based on the time points were collected. Often, the data is recorded at regular time intervals. What makes Time Series data special?
 Forecasting future Time Series values is a quite common problem in practice. Predicting the weather
 for the next week, the price of Bitcoins tomorrow, the number of your sales during X-mas  are common examples.
 Time Series data introduces a “hard dependency” on previous time steps, so the assumption that
