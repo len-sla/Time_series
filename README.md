@@ -34,7 +34,7 @@ model.add(keras.layers.Dense(units=1))
 model.compile(loss='mean_squared_error', optimizer='adam')
 
 ```
-Results were not particularly impressive:
+###  Results were not particularly impressive:
 ---
 
 ![before cleaning ](time-series.PNG)
